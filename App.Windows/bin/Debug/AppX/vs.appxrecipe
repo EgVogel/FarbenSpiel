@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EGVOGEL-PC</Machine>
+    <WindowsUser>Christian</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a6d015b7-2dca-414f-8d52-f59ebe76a926</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Christian\Desktop\App\App\App.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>7525C9BDF29DE505436D5277D252C46C70E4E2B1092880B723967B7C04AC169E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a6d015b7-2dca-414f-8d52-f59ebe76a926_1.0.0.0_neutral__a9gjcazcjyqtc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a6d015b7-2dca-414f-8d52-f59ebe76a926_a9gjcazcjyqtc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a6d015b7-2dca-414f-8d52-f59ebe76a926</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Christian</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Christian\Desktop\App\App\App.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-06T07:39:49.682</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Christian\Desktop\App\App\App.Windows\bin\Debug\Farben.exe">
+      <PackagePath>Farben.exe</PackagePath>
+      <Modified>2016-11-10T12:15:41.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Christian\Desktop\App\App\App.Windows\Assets\Farben-Hintergrund.png">
+      <PackagePath>Assets\Farben-Hintergrund.png</PackagePath>
+      <Modified>2016-06-21T10:28:31.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Christian\Desktop\App\App\App.Windows\Assets\Farben.png">
+      <PackagePath>Assets\Farben.png</PackagePath>
+      <Modified>2016-06-21T08:49:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Christian\Desktop\App\App\App.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-21T09:55:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Christian\Desktop\App\App\App.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Christian\Desktop\App\App\App.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Christian\Desktop\App\App\App.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-22T18:33:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Christian\Desktop\App\App\App.Windows\Assets\Farben-Logo.ico">
+      <PackagePath>Assets\Farben-Logo.ico</PackagePath>
+      <Modified>2016-06-21T09:55:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Christian\Desktop\App\App\App.Windows\bin\Debug\Farben.xr.xml">
+      <PackagePath>Farben.xr.xml</PackagePath>
+      <Modified>2016-06-22T19:15:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Christian\Desktop\App\App\App.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-07-06T07:38:13.244</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Christian\Desktop\App\App\App.Windows\bin\Debug\BlankPage1.xbf">
+      <PackagePath>BlankPage1.xbf</PackagePath>
+      <Modified>2016-07-06T07:39:49.534</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Christian\Desktop\App\App\App.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-07-06T07:38:13.244</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Christian\Desktop\App\App\App.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-07-06T07:39:49.650</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

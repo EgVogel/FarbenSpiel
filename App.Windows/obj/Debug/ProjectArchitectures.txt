@@ -1,0 +1,1 @@
+C:\Users\Christian\Desktop\App\App\App.Windows\App.Windows.csproj;neutral
